@@ -1,24 +1,24 @@
 
 # Serwery Minecraft BoxPvP
 Najlepsze [serwery BoxPvP](https://mcserwery.pl/serwery/minecraft/tryb/BoxPvP)
-Ostatnia aktualizacja 2024-08-01 05:39
+Ostatnia aktualizacja 2024-08-01 06:39
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴅʀᴏᴘꜱᴍᴘ ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 402/2000 | 229 |
+| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴍᴇɢᴀᴅʀᴏᴘ ꜱᴛᴀʀᴛ ᴄᴢᴡᴀʀᴛᴇᴋ 18:00! | 379/2000 | 229 |
 | 2 | 	[froostmc.pl](https://mcserwery.pl/serwery/minecraft/263/) |  FROOSTMC » Wbijaj na potezny serwer! 1.8-1.21 ᴄʜᴇꜱᴛᴘᴠᴘ ꜱᴜʀᴠɪᴠᴀʟ ᴀɴᴀʀᴄʜɪᴀꜱᴍᴘ ʙᴏxᴘᴠᴘ | 25/750 | 17 |
 | 3 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, BoxPVP 1.20.4 NOWA EDYCJA SKYBLOCKA WKRÓTCE | 37/500 | 7 |
 | 4 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  Najfajniejsza sieć ███ Darmowy VIP na trybie TowerPvP! Odbierz /freevip | 16/1337 | 6 |
-| 5 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- ᴋɪɴɢ ꜱᴜʀᴠɪᴠᴀʟ ➡ ɴᴏᴡʏ ᴛʀʏʙ ➡ ᴊᴜᴢ ᴊᴇꜱᴛ! | 44/1000 | 3 |
+| 5 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- ᴋɪɴɢ ꜱᴜʀᴠɪᴠᴀʟ ➡ ɴᴏᴡʏ ᴛʀʏʙ ➡ ᴊᴜᴢ ᴊᴇꜱᴛ! | 37/1000 | 3 |
 | 6 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl  10 SEZON BedWars Aktualizacja SkyBox  END na SV+Dzialki 1.20.4 | 125/20000 | 2 |
 | 7 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Start Survival 1.21 w sobote o godz. 18:00! » Graczy: {ONLINE_PLAYERS}/2000 « | 109/110 | 2 |
-| 8 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × ClassicMC [1.21]: Nowa edycja [1.21] w czwartek o 20:00! | 22/26 | 2 |
+| 8 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × ClassicMC [1.21]: Nowa edycja [1.21] w czwartek o 20:00! | 19/23 | 2 |
 | 9 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! Konkursy i eventy " Questy " Dzialki " WBIJAJ! | 2/777 | 2 |
-| 10 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | ✅ HARDSMP.EU ✅ [1.19-1.21]  ✨ LOSOWANIE WAKACYJNEGO CO MINUTĘ!!! | 29/1000 | 2 |
+| 10 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | ✅ HARDSMP.EU ✅ [1.19-1.21]  ✨ LOSOWANIE WAKACYJNEGO CO MINUTĘ!!! | 23/1000 | 2 |
 | 11 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 0/500 | 2 |
-| 12 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL » Strona: InkMC.pl, kod WAKACJE -30% ɴᴏᴡʏ ᴛʀʏʙ ᴀɴᴀʀᴄʜɪᴀ ᴘʀᴀᴄᴛɪᴄᴇ ᴊᴜᴢ ᴡʏsᴛᴀʀᴛᴏᴡᴀʟ! | 200/201 | 1 |
-| 13 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL → sᴋʟᴇᴘ.ᴀᴄᴍᴄ.ᴘʟ  ᴄᴏᴅᴢɪᴇɴɴɪᴇ ᴋʟᴜᴄᴢᴇ ɴᴀ ᴛʀʏʙᴀᴄʜ ᴏ 17, 18 ɪ 19! | 78/2000 | 1 |
-| 14 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | × ᴡᴏᴊᴀɴᴍᴄ.ᴘʟ × ᴍᴀᴘᴋᴀ ᴇᴠᴇɴᴛᴏᴡᴀ ɴᴀ ʙᴏx ᴘᴠᴘ! × ᴅᴏᴅᴀɴᴏ ᴜᴍɪᴇᴊęᴛɴᴏśᴄɪ ᴘᴜᴘɪʟᴏᴍ! /ᴘᴜᴘɪʟᴇ | 78/2000 | 1 |
-| 15 | 	[kidowice.pl](https://mcserwery.pl/serwery/minecraft/272/) | KIDOWICE.PL ↔ ᴏғɪᴄᴊᴀʟɴʏ sᴇʀᴡᴇʀ ᴋɪᴅᴏᴡɪᴄ! NOWA EDYCJA TRYBU BOXPVP WYSTARTOWAŁA! | 33/1500 | 1 |
+| 12 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL » Strona: InkMC.pl, kod WAKACJE -30% ɴᴏᴡʏ ᴛʀʏʙ ᴀɴᴀʀᴄʜɪᴀ ᴘʀᴀᴄᴛɪᴄᴇ ᴊᴜᴢ ᴡʏsᴛᴀʀᴛᴏᴡᴀʟ! | 203/204 | 1 |
+| 13 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL → sᴋʟᴇᴘ.ᴀᴄᴍᴄ.ᴘʟ  ᴄᴏᴅᴢɪᴇɴɴɪᴇ ᴋʟᴜᴄᴢᴇ ɴᴀ ᴛʀʏʙᴀᴄʜ ᴏ 17, 18 ɪ 19! | 28/2000 | 1 |
+| 14 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | × ᴡᴏᴊᴀɴᴍᴄ.ᴘʟ × ᴍᴀᴘᴋᴀ ᴇᴠᴇɴᴛᴏᴡᴀ ɴᴀ ʙᴏx ᴘᴠᴘ! × ᴅᴏᴅᴀɴᴏ ᴜᴍɪᴇᴊęᴛɴᴏśᴄɪ ᴘᴜᴘɪʟᴏᴍ! /ᴘᴜᴘɪʟᴇ | 32/2000 | 1 |
+| 15 | 	[kidowice.pl](https://mcserwery.pl/serwery/minecraft/272/) | KIDOWICE.PL ↔ ᴏғɪᴄᴊᴀʟɴʏ sᴇʀᴡᴇʀ ᴋɪᴅᴏᴡɪᴄ! NOWA EDYCJA TRYBU BOXPVP WYSTARTOWAŁA! | 35/1500 | 1 |
 | 16 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | ʟᴏᴡᴘʟᴀʏ.ᴘʟ - ᴋʀᴀɪɴᴀ ɪɴɴᴏᴡᴀᴄᴊɪ ᴡʏsᴛᴀʀᴛᴏᴡᴀʟᴏ ᴡʏᴅᴀʀᴢᴇɴɪᴇ ᴡᴀᴋᴀᴄʏᴊɴᴇ! | 10/200 | 1 |
 | 17 | 	[endercraft.pl](https://mcserwery.pl/serwery/minecraft/58/) | Serwer nie posiada motd | 0/-1 | 1 |
 | 18 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & Zbieraj znajomych na start!  KretMC.pl & Earth SMP >> Start 9 edycji 9 sierpnia 18:00 | 0/1000 | 1 |
@@ -33,4 +33,4 @@ Ostatnia aktualizacja 2024-08-01 05:39
 | 27 | 	[polarcraft.pl](https://mcserwery.pl/serwery/minecraft/56/) | PolarCraft.PL - ꜱᴛᴀʀᴛ ᴅᴢɪś 18:00 ᴡʏɢʀᴀᴊ ᴡᴘʟɴ ɴᴀ ᴅᴄ.ᴘᴏʟᴀʀᴄʀᴀꜰᴛ.ᴘʟ | 4/100 | 0 |
 | 28 | 	[bagmc.pl](https://mcserwery.pl/serwery/minecraft/61/) | BAGMC.PL » ᴡʙɪᴊᴀᴊ ɴᴀ sᴇʀᴡᴇʀ ᴊᴜᴢ ᴛᴇʀᴀᴢ/KOD WAKACJE » DARMOWA RANGA SVIP! | 112/1500 | 0 |
 | 29 | 	[poolcraft.pl](https://mcserwery.pl/serwery/minecraft/75/) | POOLCRAFT.PL— ʙᴏxᴘᴠᴘ — ᴏɴᴇʙʟᴏᴄᴋ ɴɪᴇᴅʟᴜɢᴏ ꜱᴛᴀʀᴛ ꜱᴜʀᴠɪᴠᴀʟ <- [ᴡᴇʀꜱᴊᴀ 1.21] | 4/60 | 0 |
-| 30 | 	[nusi.pl](https://mcserwery.pl/serwery/minecraft/109/) | ꜱᴇʀᴡᴇʀ ᴅᴢɪᴀᴌᴀ ᴛʏʟᴋᴏ ᴡᴇʀꜱᴊᴇ 1.16.5+ | 8/500 | 0 |
+| 30 | 	[nusi.pl](https://mcserwery.pl/serwery/minecraft/109/) | ꜱᴇʀᴡᴇʀ ᴅᴢɪᴀᴌᴀ ᴛʏʟᴋᴏ ᴡᴇʀꜱᴊᴇ 1.16.5+ | 6/500 | 0 |
