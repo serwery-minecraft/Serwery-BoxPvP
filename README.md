@@ -1,25 +1,25 @@
 
 # Serwery Minecraft BoxPvP
 Najlepsze [serwery BoxPvP](https://mcserwery.pl/serwery/minecraft/tryb/BoxPvP)
-Ostatnia aktualizacja 2024-08-07 03:39
+Ostatnia aktualizacja 2024-08-07 04:39
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴍᴇɢᴀᴅʀᴏᴘ ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 613/2000 | 234 |
+| 1 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴍᴇɢᴀᴅʀᴏᴘ ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 484/2000 | 234 |
 | 2 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Survival, SkyBlock, BoxPVP  1.20.4 🠆 NOWA EDYCJA! SKYBLOCK WŁAŚNIE WYSTARTOWAŁ 🠄 | 122/500 | 9 |
-| 3 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  Najfajniejsza sieć ███ Darmowy VIP na trybie TowerPvP! Odbierz /freevip | 17/1337 | 7 |
+| 3 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  Najfajniejsza sieć ███ Darmowy VIP na trybie TowerPvP! Odbierz /freevip | 13/1337 | 7 |
 | 4 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- i ꜱᴋʀᴢʏɴɪᴀ ʟᴀᴛᴏ 2024 ➡ ᴀxᴇʟᴄʀᴀꜰᴛ.ᴘʟ/ꜱᴋʟᴇᴘ i | 61/1000 | 3 |
 | 5 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl  10 SEZON BedWars Aktualizacja SkyBox  END na SV+Dzialki 1.20.4 | 322/20000 | 2 |
 | 6 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × GENBLOCK: /kod sponsor +UPDATE  ◈ Tryb Survival 1.21 juz wystartowal wbijamy! :D » Graczy: {ONLINE_PLAYERS}/2000 « | 151/152 | 2 |
-| 7 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × Chest PvP: Nowa edycja w czwartek o 20:00! | 119/123 | 2 |
-| 8 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL » Strona: InkMC.pl, kod WAKACJE -30% ᴜᴘᴅᴀᴛᴇ ɴᴀ ᴀɴᴀʀᴄʜɪᴀ ᴘʀᴀᴄᴛɪᴄᴇ ᴡ ᴘɪᴀᴛᴇᴋ ᴏ 20:00! | 178/179 | 2 |
+| 7 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × Chest PvP: Nowa edycja w czwartek o 20:00! | 68/72 | 2 |
+| 8 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL » Strona: InkMC.pl, kod WAKACJE -30% ᴜᴘᴅᴀᴛᴇ ɴᴀ ᴀɴᴀʀᴄʜɪᴀ ᴘʀᴀᴄᴛɪᴄᴇ ᴡ ᴘɪᴀᴛᴇᴋ ᴏ 20:00! | 157/158 | 2 |
 | 9 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce!   Nowa edycja juz 09.08 o 19:00 - WBIJAJ! << | 5/777 | 2 |
-| 10 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 13/500 | 2 |
-| 11 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | ✅ HARDSMP.EU ✅ [1.19-1.21]  ✨ Nowa edycja HARDSMP w tą sobotę o 18:00 | 25/1000 | 2 |
+| 10 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 6/500 | 2 |
+| 11 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | ✅ HARDSMP.EU ✅ [1.19-1.21]  ✨ Nowa edycja HARDSMP w tą sobotę o 18:00 | 20/1000 | 2 |
 | 12 | 	[rapy.pl](https://mcserwery.pl/serwery/minecraft/160/) | RAPY.PL ᴇᴠᴇɴᴛ ᴅʀᴜżʏɴ ᴊᴜż ᴛʀᴡᴀ ɴᴀ ʙᴏxᴘᴠᴘ | 1535/1 | 1 |
 | 13 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL → sᴋʟᴇᴘ.ᴀᴄᴍᴄ.ᴘʟ  ᴄᴏᴅᴢɪᴇɴɴɪᴇ ᴋʟᴜᴄᴢᴇ ɴᴀ ᴛʀʏʙᴀᴄʜ ᴏ 17, 18 ɪ 19! | 70/2000 | 1 |
-| 14 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | × ᴡᴏᴊᴀɴᴍᴄ.ᴘʟ × ᴍᴀᴘᴋᴀ ᴇᴠᴇɴᴛᴏᴡᴀ ɴᴀ ʙᴏx ᴘᴠᴘ! × ᴅᴏᴅᴀɴᴏ ᴜᴍɪᴇᴊęᴛɴᴏśᴄɪ ᴘᴜᴘɪʟᴏᴍ! /ᴘᴜᴘɪʟᴇ | 117/2000 | 1 |
-| 15 | 	[kidowice.pl](https://mcserwery.pl/serwery/minecraft/272/) | KIDOWICE.PL ↔ ᴏғɪᴄᴊᴀʟɴʏ sᴇʀᴡᴇʀ ᴋɪᴅᴏᴡɪᴄ! NOWA EDYCJA TRYBU BOXPVP WYSTARTOWAŁA! | 30/1500 | 1 |
-| 16 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | ʟᴏᴡᴘʟᴀʏ.ᴘʟ - ᴋʀᴀɪɴᴀ ɪɴɴᴏᴡᴀᴄᴊɪ ᴡʏsᴛᴀʀᴛᴏᴡᴀʟᴏ ᴡʏᴅᴀʀᴢᴇɴɪᴇ ᴡᴀᴋᴀᴄʏᴊɴᴇ! | 30/200 | 1 |
+| 14 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | × ᴡᴏᴊᴀɴᴍᴄ.ᴘʟ × ᴍᴀᴘᴋᴀ ᴇᴠᴇɴᴛᴏᴡᴀ ɴᴀ ʙᴏx ᴘᴠᴘ! × ᴅᴏᴅᴀɴᴏ ᴜᴍɪᴇᴊęᴛɴᴏśᴄɪ ᴘᴜᴘɪʟᴏᴍ! /ᴘᴜᴘɪʟᴇ | 109/2000 | 1 |
+| 15 | 	[kidowice.pl](https://mcserwery.pl/serwery/minecraft/272/) | KIDOWICE.PL ↔ ᴏғɪᴄᴊᴀʟɴʏ sᴇʀᴡᴇʀ ᴋɪᴅᴏᴡɪᴄ! NOWA EDYCJA TRYBU BOXPVP WYSTARTOWAŁA! | 26/1500 | 1 |
+| 16 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | ʟᴏᴡᴘʟᴀʏ.ᴘʟ - ᴋʀᴀɪɴᴀ ɪɴɴᴏᴡᴀᴄᴊɪ ᴡʏsᴛᴀʀᴛᴏᴡᴀʟᴏ ᴡʏᴅᴀʀᴢᴇɴɪᴇ ᴡᴀᴋᴀᴄʏᴊɴᴇ! | 21/200 | 1 |
 | 17 | 	[endercraft.pl](https://mcserwery.pl/serwery/minecraft/58/) | Serwer nie posiada motd | 0/-1 | 1 |
 | 18 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & Zbieraj znajomych na start!  KretMC.pl & Earth SMP >> Start 9 edycji 9 sierpnia 18:00 | 0/1000 | 1 |
 | 19 | 	[DreamCube.pl](https://mcserwery.pl/serwery/minecraft/240/) | ᴡᴡᴡ.ᴛʀʏᴘᴠᴘ.ᴘʟ ☞ TRYPVP.PL ☜ ᴅᴄ.ᴛʀʏᴘᴠᴘ.ᴘʟ ᴘʀᴢᴇʀᴡᴀ ᴛᴇᴄʜɴɪᴄᴢɴᴀ ɴᴀ ʙᴏхᴘᴠᴘ | 0/30 | 1 |
