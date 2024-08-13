@@ -1,36 +1,36 @@
 
 # Serwery Minecraft BoxPvP
 Najlepsze [serwery BoxPvP](https://mcserwery.pl/serwery/minecraft/tryb/BoxPvP)
-Ostatnia aktualizacja 2024-08-13 20:39
+Ostatnia aktualizacja 2024-08-13 21:39
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 NOWA EDYCJA BOXPVP WYSTARTOWALA! | 224/2000 | 49 |
-| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴍᴇɢᴀᴅʀᴏᴘ ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 1552/2000 | 239 |
-| 3 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, BoxPVP  1.20.4 🠆 JUTRO O GODZINIE 22:00 KONIEC EDYCJI EKO! 🠄 | 407/500 | 9 |
-| 4 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  Najfajniejsza sieć ███ Darmowy VIP na trybie TowerPvP! Odbierz /freevip | 78/1337 | 7 |
-| 5 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- i ꜱᴋʀᴢʏɴɪᴀ ʟᴀᴛᴏ 2024 ➡ ᴀxᴇʟᴄʀᴀꜰᴛ.ᴘʟ/ꜱᴋʟᴇᴘ i | 367/1000 | 3 |
-| 6 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 36/500 | 3 |
-| 7 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl  10 SEZON BedWars Aktualizacja SkyBox  END na SV+Dzialki 1.20.4 | 2827/20000 | 2 |
-| 8 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × GENBLOCK: /kod sponsor +UPDATE  ◈ Tryb Survival 1.21 juz wystartowal wbijamy! :D » Graczy: {ONLINE_PLAYERS}/2000 « | 689/690 | 2 |
-| 9 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ᴅɪꜱᴄᴏʀᴅ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ/ᴅɪꜱᴄᴏʀᴅ × Wejdz na ChestPVP i wygraj 100 zł! | 472/476 | 2 |
-| 10 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL » Strona: InkMC.pl, kod WAKACJE -30% ᴜᴘᴅᴀᴛᴇ ɴᴀ ᴀɴᴀʀᴄʜɪᴀ ᴘʀᴀᴄᴛɪᴄᴇ ᴊᴜᴢ ᴊᴇsᴛ, ᴡᴘᴀᴅᴀᴊ! | 932/933 | 2 |
-| 11 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce!   Nowa edycja juz WYSTARTOWALA - WBIJAJ! | 220/777 | 2 |
-| 12 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | ✅ HARDSMP.EU ✅ [1.19-1.21] 🔥 AMNESTIA BANÓW 🔥 WBIJAJ 🔥 | 82/1000 | 2 |
-| 13 | 	[endercraft.pl](https://mcserwery.pl/serwery/minecraft/58/) | Serwer nie posiada motd | 2/-1 | 1 |
-| 14 | 	[rapy.pl](https://mcserwery.pl/serwery/minecraft/160/) | RAPY.PL ɴᴏᴡᴇ ᴘᴏᴢɪᴏᴍʏ ɴᴀɢʀóᴅ ᴡ ᴇᴠᴇɴᴄɪᴇ ɴᴀ ʙᴏxᴘᴠᴘ | 2771/1 | 1 |
-| 15 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & Serwer już działa!  KretMC.pl & Earth SMP >> Klucze dla wszystkich 20:00 | 226/1000 | 1 |
-| 16 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL → sᴋʟᴇᴘ.ᴀᴄᴍᴄ.ᴘʟ  ᴄᴏᴅᴢɪᴇɴɴɪᴇ ᴋʟᴜᴄᴢᴇ ɴᴀ ᴛʀʏʙᴀᴄʜ ᴏ 17, 18 ɪ 19! | 428/2000 | 1 |
-| 17 | 	[DreamCube.pl](https://mcserwery.pl/serwery/minecraft/240/) | ᴡᴡᴡ.ᴛʀʏᴘᴠᴘ.ᴘʟ ☞ TRYPVP.PL ☜ ᴅᴄ.ᴛʀʏᴘᴠᴘ.ᴘʟ ʙᴏхᴘᴠᴘ ᴊᴜᴢ ᴅᴢɪᴀʟᴀ!  ᴀɴᴀʀᴄʜɪᴀᴘʀᴀᴄ ᴊᴜᴢ ɴɪᴇᴅʟᴜɢᴏ! | 1/30 | 1 |
-| 18 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | × ᴡᴏᴊᴀɴᴍᴄ.ᴘʟ × ᴏɴᴇ ʙʟᴏᴄᴋ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟ! × × ᴅᴀʀᴍᴏᴡᴇ ᴋʟᴜᴄᴢᴇ ᴏ 11:00 ɪ 19:00 ᴅʟᴀ ᴋᴀżᴅᴇɢᴏ! × | 492/2000 | 1 |
-| 19 | 	[kidowice.pl](https://mcserwery.pl/serwery/minecraft/272/) | KIDOWICE.PL ↔ ᴏғɪᴄᴊᴀʟɴʏ sᴇʀᴡᴇʀ ᴋɪᴅᴏᴡɪᴄ!WBIJAJ NA SERWER JUŻ TERAZ | 159/1500 | 1 |
-| 20 | 	[s1.icsv.pl](https://mcserwery.pl/serwery/minecraft/286/) |  s1.MCKC.PL × Siec serwerow minecraft 1.8 - 1.21  SURVIVAL  ONEBLOCK  BOXPVP  MEGADROP  ⭐ MINIGAMES  SKYWARS  FREEBUILD  BEDWARS  EASYHC  LIFESTEAL  ANARCHIA  P | 2972/0 | 1 |
-| 21 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | ʟᴏᴡᴘʟᴀʏ.ᴘʟ - ᴋʀᴀɪɴᴀ ɪɴɴᴏᴡᴀᴄᴊɪ ᴡʏsᴛᴀʀᴛᴏᴡᴀʟᴏ ᴡʏᴅᴀʀᴢᴇɴɪᴇ ᴡᴀᴋᴀᴄʏᴊɴᴇ! | 56/200 | 1 |
-| 22 | 	[bkrmc.pl](https://mcserwery.pl/serwery/minecraft/432/) | 🔥 BKRMC.PL × ᴡᴀᴋᴀᴄʏᴊɴʏ ᴇᴠᴇɴᴛ 🔥 ★ ᴋʟᴜᴄᴢᴇ ᴄᴏᴅᴢɪᴇɴɴɪᴇ ᴏ 16:00 ɪ 21:00, ᴡʙɪᴊᴀᴊ! ★ | 18/100 | 1 |
-| 23 | 	[proxy6.cytrushost.pl](https://mcserwery.pl/serwery/minecraft/743/) | ꜱᴡɪᴛᴄʜᴍᴄ.ᴘʟ・ᴅᴄ.ꜱᴡɪᴛᴄʜᴍᴄ.ᴘʟ Niedługo coś dodamy ciekawego! | 1000/1000 | 1 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival 1.20.4 ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ | 172/2000 | 49 |
+| 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl ɴᴏᴡᴀ ᴇᴅʏᴄᴊᴀ ꜱᴜʀᴠɪᴠᴀʟ 1.21 ᴊᴜż ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟᴀ! | 1642/2000 | 239 |
+| 3 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, BoxPVP  1.20.4 🠆 JUTRO O GODZINIE 22:00 KONIEC EDYCJI EKO! 🠄 | 405/500 | 9 |
+| 4 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FajneMC.pl  Najfajniejsza sieć ███ Darmowy VIP na trybie TowerPvP! Odbierz /freevip | 71/1337 | 7 |
+| 5 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AxelCraft.pl [1.19.3+] -]--- i ꜱᴋʀᴢʏɴɪᴀ ʟᴀᴛᴏ 2024 ➡ ᴀxᴇʟᴄʀᴀꜰᴛ.ᴘʟ/ꜱᴋʟᴇᴘ i | 351/1000 | 3 |
+| 6 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 50/500 | 3 |
+| 7 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl  10 SEZON BedWars Aktualizacja SkyBox  END na SV+Dzialki 1.20.4 | 3612/20000 | 2 |
+| 8 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × GENBLOCK: /kod sponsor +UPDATE  ◈ Tryb Survival 1.21 juz wystartowal wbijamy! :D » Graczy: {ONLINE_PLAYERS}/2000 « | 705/706 | 2 |
+| 9 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | ɴᴇᴛʜᴇʀꜱᴛᴏʀᴍ ツ ꜱᴛʀᴏɴᴀ ᴡᴡᴡ: ᴡᴡᴡ.ɴꜱꜱᴠ.ᴘʟ × Wejdz na ChestPVP i wygraj 100 zł! | 526/530 | 2 |
+| 10 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL » Strona: InkMC.pl, kod WAKACJE -30% ᴜᴘᴅᴀᴛᴇ ɴᴀ ᴀɴᴀʀᴄʜɪᴀ ᴘʀᴀᴄᴛɪᴄᴇ ᴊᴜᴢ ᴊᴇsᴛ, ᴡᴘᴀᴅᴀᴊ! | 978/979 | 2 |
+| 11 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy w Polsce!    WLASNIE TRWA EVENT - ZAPRASZAMY! <<< | 246/777 | 2 |
+| 12 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | ✅ HARDSMP.EU ✅ [1.19-1.21] 🔥 AMNESTIA BANÓW 🔥 WBIJAJ 🔥 | 85/1000 | 2 |
+| 13 | 	[rapy.pl](https://mcserwery.pl/serwery/minecraft/160/) | RAPY.PL ɴᴏᴡᴇ ᴘᴏᴢɪᴏᴍʏ ɴᴀɢʀóᴅ ᴡ ᴇᴠᴇɴᴄɪᴇ ɴᴀ ʙᴏxᴘᴠᴘ | 2873/1 | 1 |
+| 14 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & Serwer już działa!  KretMC.pl & Earth SMP >> Klucze dla wszystkich 20:00 | 126/1000 | 1 |
+| 15 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL → sᴋʟᴇᴘ.ᴀᴄᴍᴄ.ᴘʟ  ᴄᴏᴅᴢɪᴇɴɴɪᴇ ᴋʟᴜᴄᴢᴇ ɴᴀ ᴛʀʏʙᴀᴄʜ ᴏ 17, 18 ɪ 19! | 359/2000 | 1 |
+| 16 | 	[DreamCube.pl](https://mcserwery.pl/serwery/minecraft/240/) | ᴡᴡᴡ.ᴛʀʏᴘᴠᴘ.ᴘʟ ☞ TRYPVP.PL ☜ ᴅᴄ.ᴛʀʏᴘᴠᴘ.ᴘʟ ʙᴏхᴘᴠᴘ ᴊᴜᴢ ᴅᴢɪᴀʟᴀ!  ᴀɴᴀʀᴄʜɪᴀᴘʀᴀᴄ ᴊᴜᴢ ɴɪᴇᴅʟᴜɢᴏ! | 1/30 | 1 |
+| 17 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | × ᴡᴏᴊᴀɴᴍᴄ.ᴘʟ × ᴏɴᴇ ʙʟᴏᴄᴋ ᴡʏꜱᴛᴀʀᴛᴏᴡᴀʟ! × × ᴅᴀʀᴍᴏᴡᴇ ᴋʟᴜᴄᴢᴇ ᴏ 11:00 ɪ 19:00 ᴅʟᴀ ᴋᴀżᴅᴇɢᴏ! × | 442/2000 | 1 |
+| 18 | 	[kidowice.pl](https://mcserwery.pl/serwery/minecraft/272/) | KIDOWICE.PL ↔ ᴏғɪᴄᴊᴀʟɴʏ sᴇʀᴡᴇʀ ᴋɪᴅᴏᴡɪᴄ!WBIJAJ NA SERWER JUŻ TERAZ | 122/1500 | 1 |
+| 19 | 	[s1.icsv.pl](https://mcserwery.pl/serwery/minecraft/286/) |  s1.MCKC.PL × Siec serwerow minecraft 1.8 - 1.21  SURVIVAL  ONEBLOCK  BOXPVP  MEGADROP  ⭐ MINIGAMES  SKYWARS  FREEBUILD  BEDWARS  EASYHC  LIFESTEAL  ANARCHIA  P | 3398/0 | 1 |
+| 20 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | ʟᴏᴡᴘʟᴀʏ.ᴘʟ - ᴋʀᴀɪɴᴀ ɪɴɴᴏᴡᴀᴄᴊɪ ᴡʏsᴛᴀʀᴛᴏᴡᴀʟᴏ ᴡʏᴅᴀʀᴢᴇɴɪᴇ ᴡᴀᴋᴀᴄʏᴊɴᴇ! | 68/200 | 1 |
+| 21 | 	[bkrmc.pl](https://mcserwery.pl/serwery/minecraft/432/) | 🔥 BKRMC.PL × ᴡᴀᴋᴀᴄʏᴊɴʏ ᴇᴠᴇɴᴛ 🔥 ★ ᴋʟᴜᴄᴢᴇ ᴄᴏᴅᴢɪᴇɴɴɪᴇ ᴏ 16:00 ɪ 21:00, ᴡʙɪᴊᴀᴊ! ★ | 18/100 | 1 |
+| 22 | 	[proxy6.cytrushost.pl](https://mcserwery.pl/serwery/minecraft/743/) | ꜱᴡɪᴛᴄʜᴍᴄ.ᴘʟ・ᴅᴄ.ꜱᴡɪᴛᴄʜᴍᴄ.ᴘʟ Niedługo coś dodamy ciekawego! | 1000/1000 | 1 |
+| 23 | 	[endercraft.pl](https://mcserwery.pl/serwery/minecraft/58/) | Serwer nie posiada motd | 0/-1 | 1 |
 | 24 | 	[wywrotkamc.pl](https://mcserwery.pl/serwery/minecraft/6/) | HOTMC.PL & WywrotkaMC.PL [1.20.2] Start serwera już niedługo! | 1/200 | 0 |
-| 25 | 	[megaxcore.pl](https://mcserwery.pl/serwery/minecraft/7/) | MEGAXCORE.PL SWAGGER na BoxPVP! -> /nagroda Odbierz range SuperVIP za darmo! Wpisz: /nagroda  Survival wystartowal! | 252/2000 | 0 |
-| 26 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! ᴇᴠᴇɴᴛ ᴘᴏꜱᴢᴜᴋɪᴡᴀᴄᴢᴇ ꜱᴋᴀʀʙóᴡ ᴊᴜż ᴅᴏꜱᴛęᴘɴʏ | 2911/1 | 0 |
-| 27 | 	[craftplay.pl](https://mcserwery.pl/serwery/minecraft/25/) | CraftPlay.pl :: Sklep: CraftPlay.pl Zapraszamy do wspolnej gry na serwerze! | 2197/5000 | 0 |
-| 28 | 	[noobekpvp.pl](https://mcserwery.pl/serwery/minecraft/28/) | NOOBEKPVP.PL » Strona WWW: noobekpvp.pl ᴀɴᴀʀᴄʜɪᴀ ᴘʀᴀᴄᴛɪᴄᴇ » ᴡʙɪᴊᴀᴊ ᴘᴏᴛʀᴇɴᴏᴡᴀᴄ ᴘᴠᴘ | 21/100 | 0 |
-| 29 | 	[mcgry.pl](https://mcserwery.pl/serwery/minecraft/44/) | Serwer nie posiada motd | 7/1000 | 0 |
-| 30 | 	[hub4u.pl](https://mcserwery.pl/serwery/minecraft/51/) | HUB4U.PL  Discord serwera: dc.hub4u.pl Start Nowej Edycji Survivala 1.21 02.08 o 18:00! | 5/300 | 0 |
+| 25 | 	[megaxcore.pl](https://mcserwery.pl/serwery/minecraft/7/) | MEGAXCORE.PL SWAGGER na BoxPVP! -> /nagroda Odbierz range SuperVIP za darmo! Wpisz: /nagroda  Survival wystartowal! | 240/2000 | 0 |
+| 26 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | × MINESTAR × Twoje Imperium Gier! ᴇᴠᴇɴᴛ ᴘᴏꜱᴢᴜᴋɪᴡᴀᴄᴢᴇ ꜱᴋᴀʀʙóᴡ ᴊᴜż ᴅᴏꜱᴛęᴘɴʏ | 2916/1 | 0 |
+| 27 | 	[craftplay.pl](https://mcserwery.pl/serwery/minecraft/25/) | CraftPlay.pl :: Sklep: CraftPlay.pl Zapraszamy do wspolnej gry na serwerze! | 2561/5000 | 0 |
+| 28 | 	[noobekpvp.pl](https://mcserwery.pl/serwery/minecraft/28/) | NOOBEKPVP.PL » Strona WWW: noobekpvp.pl ᴀɴᴀʀᴄʜɪᴀ ᴘʀᴀᴄᴛɪᴄᴇ » ᴡʙɪᴊᴀᴊ ᴘᴏᴛʀᴇɴᴏᴡᴀᴄ ᴘᴠᴘ | 19/100 | 0 |
+| 29 | 	[mcgry.pl](https://mcserwery.pl/serwery/minecraft/44/) | Serwer nie posiada motd | 19/1000 | 0 |
+| 30 | 	[hub4u.pl](https://mcserwery.pl/serwery/minecraft/51/) | HUB4U.PL  Discord serwera: dc.hub4u.pl Start Nowej Edycji Survivala 1.21 02.08 o 18:00! | 6/300 | 0 |
