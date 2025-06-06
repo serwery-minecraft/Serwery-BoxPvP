@@ -1,36 +1,36 @@
 
 # Serwery Minecraft BoxPvP
 Najlepsze [serwery BoxPvP](https://mcserwery.pl/serwery/minecraft/tryb/BoxPvP)
-Ostatnia aktualizacja 2025-06-06 07:14
+Ostatnia aktualizacja 2025-06-06 08:14
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■BLOKOWO.PL - Survival, BoXPvP, Ekonomia, Działki NOWA EDYCJA ONEBLOCK WYSTARTOWALA | 290/2000 | 63 |
-| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 133/500 | 154 |
-| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA SURVIVAL V2 1.21 JUż WYSTARTOWALA! | 711/2000 | 487 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP NOWA EDYCJA ONEBLOCK WYSTARTOWALA! | 130/2000 | 63 |
+| 2 | 	[keycore.pl](https://mcserwery.pl/serwery/minecraft/252/) | ◈ MC.KEYCORE.PL " Strona: keycore.pl 1.8-1.21 Survival OneBlock Dzialki BoxPvP ChestPvP Anarchia GenBlock Ekonomia PvP Duel SkyBlock MegaDrop LifeSteal Practice | 184/500 | 154 |
+| 3 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl NOWA EDYCJA SURVIVAL V2 1.21 JUż WYSTARTOWALA! | 684/2000 | 487 |
 | 4 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | & KretMC.pl  Rangi na zawsze » kretmc.pl & Earth SMP » 18:00 - 20:00 /ARENA | 24/1000 | 73 |
-| 5 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ↓ ANARCHIA.GG » WBIJAJ NA DC.ANARCHIA.GG ↓ [⛏] BOхPVP  [🗡] ANARCHIA ѕMP  [🎣] ONEBLOCK | 2685/2685 | 38 |
+| 5 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | ↓ ANARCHIA.GG » WBIJAJ NA DC.ANARCHIA.GG ↓ [⛏] BOхPVP  [🗡] ANARCHIA ѕMP  [🎣] ONEBLOCK | 3159/3159 | 38 |
 | 6 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | Serwer jest dostępny na wersję 1.16+! | 74/75 | 27 |
-| 7 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | WOJANMC.PL ☚ WBIJAJ DO NAs! INғO » KONIEC EVENTU NA BOXPVP | 9/2000 | 19 |
+| 7 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | WOJANMC.PL ☚ WBIJAJ DO NAs! INғO » KONIEC EVENTU NA BOXPVP | 30/2000 | 19 |
 | 8 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | BFSMC.PL  Ekonomia, SkyBlock, OneBlock  1.21.1 @ ZA PROBLEMY Z SERWEREM O 20:00 KLUCZE!!! @ | 9/1000 | 15 |
-| 9 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FAJNEMC.PL  NAJFAJNIEJSZY SERWER ███ BoXPvP  Earth SMP  SkyGen  Duels  Anarchia Prac | 3/1337 | 13 |
+| 9 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FAJNEMC.PL  NAJFAJNIEJSZY SERWER ███ BoXPvP  Earth SMP  SkyGen  Duels  Anarchia Prac | 5/1337 | 13 |
 | 10 | 	[beehc.pl](https://mcserwery.pl/serwery/minecraft/227/) | Serwer nie posiada motd | 4/1000 | 8 |
 | 11 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | ---[- AXelCraft.pl [1.19.3+] -]--- » Nowy sezon AXelPass - /AXELPASS « | 40/1000 | 7 |
-| 12 | 	[pikomc.pl](https://mcserwery.pl/serwery/minecraft/944/) | Serwer nie posiada motd | 2035/6000 | 7 |
-| 13 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | & KretMC.pl  Rangi na zawsze » kretmc.pl & Earth SMP » 18:00 - 20:00 /ARENA | 23/1000 | 6 |
+| 12 | 	[pikomc.pl](https://mcserwery.pl/serwery/minecraft/944/) | Serwer nie posiada motd | 2080/6000 | 7 |
+| 13 | 	[byniumc.pl](https://mcserwery.pl/serwery/minecraft/157/) | & KretMC.pl  Rangi na zawsze » kretmc.pl & Earth SMP » 18:00 - 20:00 /ARENA | 36/1000 | 6 |
 | 14 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 8/500 | 5 |
 | 15 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! TURNIEJ BATTLE ROYALE ︱ INFO NA DIѕCORD | 18/1000 | 5 |
-| 16 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: Monety & eXp X2! ❤ » Aktualizacja strony i Discorda! ❤ | 54/1000 | 4 |
-| 17 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Wbijaj na OG Sezon BedWars Start Pillars of Fortune (SkyGames) PIATEK 19:00 | 370/20000 | 3 |
-| 18 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsA sTRONA: WWW.BEHERO.PL  NOWY sEON SKYBLOCK JU W PIATEK O 18:00! ⌚ | 10/11 | 3 |
+| 16 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: Monety & eXp X2! ❤ » Aktualizacja strony i Discorda! ❤ | 1/1000 | 4 |
+| 17 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ Wbijaj na OG Sezon BedWars Start Pillars of Fortune (SkyGames) PIATEK 19:00 | 163/20000 | 3 |
+| 18 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsA sTRONA: WWW.BEHERO.PL  NOWY sEON SKYBLOCK JU W PIATEK O 18:00! ⌚ | 21/22 | 3 |
 | 19 | 	[rapy.pl](https://mcserwery.pl/serwery/minecraft/160/) | RAPY.PL AKTUALIACJA OG BOXPVP DIś 18:00 ⬆ OG MAPA  OG SETY  OG PYLY ⬆ | 760/1 | 3 |
 | 20 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL BOX PVP ONE BLOCK GAMEMODE sMP  ANARCHIA DIALKI sKY GEN BED WARs GILDIE | 14/2000 | 3 |
 | 21 | 	[kidowice.pl](https://mcserwery.pl/serwery/minecraft/272/) | KIDOWICE.PL » OFICJALNY SERWER KIDOWIC18:00 - 19:00 → GENBOOST X40 NA SKYGEN! | 13/1500 | 3 |
-| 22 | 	[twinsgame.pl](https://mcserwery.pl/serwery/minecraft/790/) | TWINSGame.PL  ONEBLOCK WYSTARTOWAL  NIEBAWEM NOWA EDYCJA BOXPVP -> INFO NA DC | 4/200 | 3 |
-| 23 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | dc.lowplay.pl ※ LOWPLAY.PL ※ lowplay.pl /KIT EDYCJA NA ANARCHIAFFA | 0/400 | 3 |
-| 24 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.8.8 juz WYSTARTOWAL! :) » Graczy: {ONLINE_PLAYERS}/4000 « | 269/270 | 2 |
+| 22 | 	[lowplay.pl](https://mcserwery.pl/serwery/minecraft/378/) | dc.lowplay.pl ※ LOWPLAY.PL ※ lowplay.pl /KIT EDYCJA NA ANARCHIAFFA | 6/400 | 3 |
+| 23 | 	[twinsgame.pl](https://mcserwery.pl/serwery/minecraft/790/) | TWINSGame.PL  ONEBLOCK WYSTARTOWAL  NIEBAWEM NOWA EDYCJA BOXPVP -> INFO NA DC | 6/200 | 3 |
+| 24 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Tryb MegaDrop 1.8.8 juz WYSTARTOWAL! :) » Graczy: {ONLINE_PLAYERS}/4000 « | 315/316 | 2 |
 | 25 | 	[nssv.pl](https://mcserwery.pl/serwery/minecraft/4/) | NETHERSTORM ツ DISCORD: WWW.NSSV.PL/DISCORD  × Przerwa techniczna została zakonczona! | 8/12 | 2 |
-| 26 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | MINESTAR.PL NAJLEPSY EVENT W HISTORII TRWA! /WARP EVENT | 1321/1 | 2 |
-| 27 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! XX NOWA EDYCJA JUZ JEST!! XX | 13/777 | 2 |
+| 26 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | MINESTAR.PL NAJLEPSY EVENT W HISTORII TRWA! /WARP EVENT | 1674/1 | 2 |
+| 27 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! XX NOWA EDYCJA JUZ JEST!! XX | 19/777 | 2 |
 | 28 | 	[mchub.pl](https://mcserwery.pl/serwery/minecraft/282/) | ⭐ MCHUB.PL ↔ TWOJE CENTRUM TRYBóW ⭐ OD 18:00 DO 19:00 » GENBOOST X40 NA SKYGEN! | 48/1500 | 2 |
-| 29 | 	[nanomc.pl](https://mcserwery.pl/serwery/minecraft/612/) | nanomc.pl ✘ NanoMC.PL ✘ dc.nanomc.pl 🔥 AKTUALIACJA DROPSMP JU JEST! WBIJAJ! 🔥 | 2340/5000 | 2 |
-| 30 | 	[twinsmc.pl](https://mcserwery.pl/serwery/minecraft/776/) | TWINSGame.PL  ONEBLOCK WYSTARTOWAL  NIEBAWEM NOWA EDYCJA BOXPVP -> INFO NA DC | 4/200 | 2 |
+| 29 | 	[nanomc.pl](https://mcserwery.pl/serwery/minecraft/612/) | nanomc.pl ✘ NanoMC.PL ✘ dc.nanomc.pl 🔥 AKTUALIACJA DROPSMP JU JEST! WBIJAJ! 🔥 | 2376/5000 | 2 |
+| 30 | 	[twinsmc.pl](https://mcserwery.pl/serwery/minecraft/776/) | TWINSGame.PL  ONEBLOCK WYSTARTOWAL  NIEBAWEM NOWA EDYCJA BOXPVP -> INFO NA DC | 5/200 | 2 |
