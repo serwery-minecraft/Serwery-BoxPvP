@@ -1,36 +1,36 @@
 
 # Serwery Minecraft BoxPvP
 Najlepsze [serwery BoxPvP](https://mcserwery.pl/serwery/minecraft/tryb/BoxPvP)
-Ostatnia aktualizacja 2025-11-04 13:20
+Ostatnia aktualizacja 2025-11-04 14:20
 | # | Adres IP | Motd | Ilość Graczy | Głosy |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP, OneBlock NOWA EDYCJA SERWERA WYSTARTOWALA! ✅ | 235/2000 | 95 |
+| 1 | 	[blokowo.pl](https://mcserwery.pl/serwery/minecraft/98/) | ■■ BLOKOWO.PL - Survival, BoXPvP, OneBlock NOWA EDYCJA SERWERA WYSTARTOWALA! ✅ | 304/2000 | 95 |
 | 2 | 	[craftmc.pl](https://mcserwery.pl/serwery/minecraft/87/) | CraftMC.PL ➟ Strona WWW: craftmc.pl 🎃 NOWA EDYCJA BOXPVP JUż WYSTARTOWALA! 🎃 | 873/2000 | 620 |
 | 3 | 	[craftcube.pl](https://mcserwery.pl/serwery/minecraft/196/) | CraftCube.pl × BOXPVP-PRAC WYSTARTOWAŁ! ♥ Donut SMP » Pojedynki 1vs1 już są! /duele! | 462/5000 | 168 |
 | 4 | 	[kretmc.pl](https://mcserwery.pl/serwery/minecraft/182/) | × KretMC.pl → MAPA śWIATA 24/7  Earth SMP v2 właśnie wystartował! | 9/1000 | 151 |
 | 5 | 	[anarchia.gg](https://mcserwery.pl/serwery/minecraft/14/) | Serwer nie posiada motd | 9565/9565 | 56 |
 | 6 | 	[inkmc.pl](https://mcserwery.pl/serwery/minecraft/15/) | INKMC.PL > DZIEN DZIECKA DARMOWA RANGA /dziendziecka | 139/140 | 30 |
 | 7 | 	[wojanmc.pl](https://mcserwery.pl/serwery/minecraft/267/) | WOJANMC.PL ➔ ZAPRAsZAM NA KOZACKI TRYB! WYsTARTOWAL NOWY TRYB sTEAL A BRAINROT | 63/2000 | 20 |
-| 8 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FAJNEMC.PL  NAJFAJNIEJSZY SERWER ███ EARTH SMP  BOXPVP  SKYGEN  ONEBLOCK  ANARCHIA PRAC  DUELS | 28/1337 | 18 |
-| 9 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | ✧˚ BFSMC.PL - Gramy Survival na 1.21.8 ˚✧ WBIJAJ NA SURVIVAL BEZ EKO 1.21.10! | 89/500 | 17 |
-| 10 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | 🕷 🎃 ---[- AXelCraft.pl [1.19.3+] -]--- 🎃 🕷 i Nowa edycja BoXPVP ➡ JUŻ JEST! i | 54/1000 | 8 |
-| 11 | 	[beehc.pl](https://mcserwery.pl/serwery/minecraft/227/) | Serwer nie posiada motd | 19/500 | 8 |
+| 8 | 	[fajnemc.pl](https://mcserwery.pl/serwery/minecraft/100/) | ███ FAJNEMC.PL  NAJFAJNIEJSZY SERWER ███ EARTH SMP  BOXPVP  SKYGEN  ONEBLOCK  ANARCHIA PRAC  DUELS | 33/1337 | 18 |
+| 9 | 	[bfsmc.pl](https://mcserwery.pl/serwery/minecraft/2/) | ✧˚ BFSMC.PL - Gramy Survival na 1.21.8 ˚✧ WBIJAJ NA SURVIVAL BEZ EKO 1.21.10! | 86/500 | 17 |
+| 10 | 	[axelcraft.pl](https://mcserwery.pl/serwery/minecraft/223/) | 🕷 🎃 ---[- AXelCraft.pl [1.19.3+] -]--- 🎃 🕷 i Nowa edycja BoXPVP ➡ JUŻ JEST! i | 98/1000 | 8 |
+| 11 | 	[beehc.pl](https://mcserwery.pl/serwery/minecraft/227/) | Serwer nie posiada motd | 24/500 | 8 |
 | 12 | 	[hardsmp.eu](https://mcserwery.pl/serwery/minecraft/621/) | !! JAVA ←-- HARDSMP.EU --→ BEDROCK !! EVENT HALLOWEEN NA ѕURVIVALU JUZ JEST | 27/1000 | 8 |
-| 13 | 	[pikomc.pl](https://mcserwery.pl/serwery/minecraft/944/) | Serwer nie posiada motd | 1225/6000 | 7 |
-| 14 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL  NOWY TRYB KIT PVP WYsTARTOWAL ZAPRAsZAMY! | 38/2000 | 6 |
+| 13 | 	[pikomc.pl](https://mcserwery.pl/serwery/minecraft/944/) | Serwer nie posiada motd | 1212/6000 | 7 |
+| 14 | 	[acmc.pl](https://mcserwery.pl/serwery/minecraft/220/) |  ACMC.PL  NOWY TRYB KIT PVP WYsTARTOWAL ZAPRAsZAMY! | 68/2000 | 6 |
 | 15 | 	[kokscraft.pl](https://mcserwery.pl/serwery/minecraft/1/) | KoksCraft.pl ➜ UPDATE BOXPVP JUZ JEST! Eventy Halloweenowe juz dostepne! /cukierki | 1202/20000 | 5 |
 | 16 | 	[gmmc.pl](https://mcserwery.pl/serwery/minecraft/292/) | Serwer nie posiada motd | 10/500 | 5 |
-| 17 | 	[rapy.pl](https://mcserwery.pl/serwery/minecraft/160/) | RAPY.PL | 107/1 | 4 |
+| 17 | 	[rapy.pl](https://mcserwery.pl/serwery/minecraft/160/) | RAPY.PL | 161/1 | 4 |
 | 18 | 	[centrumpvp.pl](https://mcserwery.pl/serwery/minecraft/332/) | » CentrumPVP.pl :: HALLOWEENOWY EVENT! ❤ » ❤ NOWA MAPA, NOWY ITEM, PROMOCJA! ❤ | 421/1000 | 4 |
 | 19 | 	[behero.pl](https://mcserwery.pl/serwery/minecraft/117/) | BeHERO.pl X NAsZA sTRONA: WWW.BEHERO.PL  ◄ SURVIVAL ┃ BOXPVP ┃ SKYBLOCK ┃ SKYGEN ► | 19/20 | 3 |
-| 20 | 	[mchub.pl](https://mcserwery.pl/serwery/minecraft/282/) | ⭐ MCHUB.PL ↔ TWOJE CENTRUM TRYBóW ⭐EVENT HALLOWEEN NA SKYGEN I BOXPVP TRWA | 76/1500 | 3 |
-| 21 | 	[keymc.pl](https://mcserwery.pl/serwery/minecraft/1157/) | ✨ TURNMC.PL X Siec serwerow minecraft 1.8-1.21.10 » SURVIVAL GENBLOCK KITPVP BOXPVP ANARCHIA FFA ✅ ONEBLOCK LIFESTEAL PVP MEGAENCHANT PRACTICE SKYBLOCK MEGADROP | 169/2000 | 3 |
+| 20 | 	[mchub.pl](https://mcserwery.pl/serwery/minecraft/282/) | ⭐ MCHUB.PL ↔ TWOJE CENTRUM TRYBóW ⭐EVENT HALLOWEEN NA SKYGEN I BOXPVP TRWA | 110/1500 | 3 |
+| 21 | 	[keymc.pl](https://mcserwery.pl/serwery/minecraft/1157/) | ✨ TURNMC.PL X Siec serwerow minecraft 1.8-1.21.10 » SURVIVAL GENBLOCK KITPVP BOXPVP ANARCHIA FFA ✅ ONEBLOCK LIFESTEAL PVP MEGAENCHANT PRACTICE SKYBLOCK MEGADROP | 210/2000 | 3 |
 | 22 | 	[tabmc.pl](https://mcserwery.pl/serwery/minecraft/3/) | ◈ TabMC.pl × Strona WWW: TabMC.pl  ◈ Start MegaDrop 1.8.8 juz dzisiaj o 18:00! :) » Graczy: {ONLINE_PLAYERS}/4000 « | 45/46 | 2 |
-| 23 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | ⭐ MINESTAR.PL ⭐ -> TRWA EVENT HALLOWEEN NOWY TRYB 👑 GRA O TRON 👑 START 07.11 | 524/1 | 2 |
+| 23 | 	[minestar.pl](https://mcserwery.pl/serwery/minecraft/23/) | ⭐ MINESTAR.PL ⭐ -> TRWA EVENT HALLOWEEN NOWY TRYB 👑 GRA O TRON 👑 START 07.11 | 1289/1 | 2 |
 | 24 | 	[realcraft.pl](https://mcserwery.pl/serwery/minecraft/63/) | RealCraft.pl   Najlepszy FreeBuild w Polsce! XX EVENTY, PRZEPUSTKI, QUESTY, DZIALKI XX | 22/777 | 2 |
-| 25 | 	[flamehub.pl](https://mcserwery.pl/serwery/minecraft/353/) | FLAMEHUB.PL ➝ DC.ғLAMEHUB.PL GALAKTYCZNA OG EDYCJA ➝ PIATEK 18:00 | 38/39 | 2 |
+| 25 | 	[flamehub.pl](https://mcserwery.pl/serwery/minecraft/353/) | FLAMEHUB.PL ➝ DC.ғLAMEHUB.PL GALAKTYCZNA OG EDYCJA ➝ PIATEK 18:00 | 60/61 | 2 |
 | 26 | 	[nanomc.pl](https://mcserwery.pl/serwery/minecraft/612/) | nanomc.pl ✘ NanoMC.PL ✘ dc.nanomc.pl 🔥 NOWA EDYCJA DUPESMP JUZ DZISIAJ O 19:00! 🔥 | 184/5000 | 2 |
-| 27 | 	[venushub.pl](https://mcserwery.pl/serwery/minecraft/1001/) | VENUSHUB.PL → Discord: dc.venushub.pl  Edycja MINESTAR-FFA Wystartowała! | 25/2024 | 2 |
-| 28 | 	[lanmc.pl](https://mcserwery.pl/serwery/minecraft/1071/) | LANMC.PL • Ekonomia + Działki ✧ OneBlock  1.21.8 Nowe zmiany i edycje już wkrótce! | 13/1000 | 2 |
-| 29 | 	[polarcraft.pl](https://mcserwery.pl/serwery/minecraft/56/) | POLARCRAFT.PL - NOWOSĆ! SV+DZIALKI AUTORSKIE EVE  HALLOWEEN  /KOD DUSZEK | 5/2025 | 1 |
-| 30 | 	[nusi.pl](https://mcserwery.pl/serwery/minecraft/109/) | NUSI.PL X WIECEJ INFO NA DC.NUSI.PL  EVENT HALLOWEENOWY JUZ TRWA! | 25/500 | 1 |
+| 27 | 	[venushub.pl](https://mcserwery.pl/serwery/minecraft/1001/) | VENUSHUB.PL → Discord: dc.venushub.pl  Edycja MINESTAR-FFA Wystartowała! | 35/2024 | 2 |
+| 28 | 	[lanmc.pl](https://mcserwery.pl/serwery/minecraft/1071/) | LANMC.PL • Ekonomia + Działki ✧ OneBlock  1.21.8 Nowe zmiany i edycje już wkrótce! | 15/1000 | 2 |
+| 29 | 	[polarcraft.pl](https://mcserwery.pl/serwery/minecraft/56/) | POLARCRAFT.PL - NOWOSĆ! SV+DZIALKI AUTORSKIE EVE  HALLOWEEN  /KOD DUSZEK | 22/2025 | 1 |
+| 30 | 	[nusi.pl](https://mcserwery.pl/serwery/minecraft/109/) | NUSI.PL X WIECEJ INFO NA DC.NUSI.PL  EVENT HALLOWEENOWY JUZ TRWA! | 62/500 | 1 |
